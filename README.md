@@ -10,7 +10,7 @@ The model has been separated to two major parts, which are:
 - Tranverse Section:
   > Users will have to enter the value overall tranverse length and interval distance
   
-After filling uo the inputs, bake(to create physcially usable geometry) the components in grasshopper by assigning them to different layers.
+After filling up the inputs, bake(to create physcially usable geometry) the components in grasshopper by assigning them to different layers.
 
 Lastly, select the layer in Rhino and export them to any CAD format shown below:
 
