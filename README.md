@@ -14,7 +14,7 @@ After filling uo the inputs, bake(to create physcially usable geometry) the comp
 
 Lastly, select the layer in Rhino and export them to any CAD format shown below:
 
-Spacegass         : DXF
-MIDAS Civil       : DXF 
-Strand 7          : IGES, STEP, ACIS-SAT
-Autodesk Robot    : DWG, DGN
+- Spacegass         : DXF
+- MIDAS Civil       : DXF 
+- Strand 7          : IGES, STEP, ACIS-SAT
+- Autodesk Robot    : DWG, DGN
