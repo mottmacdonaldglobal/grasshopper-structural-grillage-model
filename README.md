@@ -1,6 +1,6 @@
 # Grasshopper_STRUCTURAL_Grillage_Model
 
-*this script is mainly used for strcutural engineers to build grillage model for structural analysis
+*this script is mainly used for structural engineers to build grillage model for structural analysis
 
 The model has been separated to two major parts, which are:
 
